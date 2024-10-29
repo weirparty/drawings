@@ -4069,7 +4069,7 @@
             <mxPoint x="3260" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BzHHH-XvYP5Emey5Z_Zl-82" value="getting there, but def still some problems here" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="xLrqTzOzAX6Km4VgO9Ew-1">
+        <mxCell id="BzHHH-XvYP5Emey5Z_Zl-82" value="getting there, but def still some problems here - a price by seat model seems best tbh, but maybe need to have something to allow for the different ticket types and prices for each seat, e.g. full price, child, oap, family (not getting how that works)" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="xLrqTzOzAX6Km4VgO9Ew-1">
           <mxGeometry x="3150" y="270" width="210" height="270" as="geometry" />
         </mxCell>
       </root>
